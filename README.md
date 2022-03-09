@@ -16,3 +16,7 @@ Finalmente, en __js/solution_provided.js__ tienes una solución del autor origin
 ## Restricciones
 
 1. NO copies/pegues una línea de código. Ni siquiera de tu ejercicio anterior. El objetivo es que obtengas soltura y entendimiento en los datos que estás tratando.
+
+## Solución 
+
+[Raúl Hinojosa](https://github.com/RaulHinojosa24)
